@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>http://localhost:8000/</loc>
+        <loc>https://comment-comptroller.com/</loc>
     </url>
     <url>
-        <loc>http://localhost:8000/about/</loc>
+        <loc>https://comment-comptroller.com/about/</loc>
     </url>
     <url>
-        <loc>http://localhost:8000/privacy-policy/</loc>
+        <loc>https://comment-comptroller.com/privacy-policy/</loc>
     </url>
     <url>
-        <loc>http://localhost:8000/terms/</loc>
+        <loc>https://comment-comptroller.com/terms/</loc>
     </url>
 </urlset>

@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 Allow: /
-Sitemap: http://localhost:8000/sitemap.xml
+Sitemap: https://comment-comptroller.com/sitemap.xml
