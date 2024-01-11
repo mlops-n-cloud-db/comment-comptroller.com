@@ -1,12 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>https://comment-comptroller.com/</loc>
+        <loc>/</loc>
     </url>
     <url>
-        <loc>https://comment-comptroller.com/privacy-policy/</loc>
+        <loc>/pricing/</loc>
     </url>
     <url>
-        <loc>https://comment-comptroller.com/terms/</loc>
+        <loc>/privacy-policy/</loc>
+    </url>
+    <url>
+        <loc>/terms/</loc>
+    </url>
+    <url>
+        <loc>/values/</loc>
     </url>
 </urlset>
